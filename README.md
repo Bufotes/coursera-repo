@@ -1,4 +1,4 @@
 coursera-repo
 =============
 
-Repo for coursera "Data Science" Specialization
+repo for coursera "Data Science" specialization
